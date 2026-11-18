@@ -84,6 +84,15 @@ Projeto acadêmico de um roguelike 2D desenvolvido em equipe.
 - Combat and progression systems.
 - Weapons, skills and artifacts.
 - Team development using Git.
+  
+### 04. Dark Tower
+**Unity | C#**
+
+Projeto pessoal de um Jogo de turno com combate tatico e builds.
+- Tile Base combate.
+- Turn and unitys system.
+- Original Character design.
+- Devolopmente using Git.
 
 ---
 

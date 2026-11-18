@@ -92,7 +92,7 @@ Projeto pessoal de um Jogo de turno com combate tatico e builds.
 - Tile Base combate.
 - Turn and unitys system.
 - Original Character design.
-- Devolopmente using Git.
+- Devolopment using Git.
 
 ---
 
@@ -123,6 +123,8 @@ Current focus:
 **LinkedIn:** [João Nemezio](https://www.linkedin.com/in/joão-nemezio-038255348/)
 
 **GitHub:** [@DeltaPenas](https://github.com/DeltaPenas)
+
+**Discord: Deltaaapenas**
 
 ```bash
 $ echo "Thanks for visiting my profile!"

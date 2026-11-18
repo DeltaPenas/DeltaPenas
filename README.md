@@ -10,13 +10,13 @@
 
 Olá! Sou João Nemezio, estudante de Ciência da Computação na UNINASSAU e desenvolvedor em formação.
 
-Tenho interesse principalmente em **Backend Development, Engenharia de Software e arquitetura de sistemas**.
+Tenho interesse principalmente em **Game Dev, Backend Development, Engenharia de Software e arquitetura de sistemas**.
 
 Atualmente, estou aprofundando meus conhecimentos em Java, Spring Boot, desenvolvimento de APIs REST e bancos de dados relacionais.
 
 Hello! I'm João Nemezio, a Computer Science student and aspiring software developer.
 
-My main interests are **Backend Development, Software Engineering and system architecture**.
+My main interests are **Game Dev, Backend Development,\ Software Engineering and system architecture**.
 
 I'm currently improving my skills in Java, Spring Boot, REST APIs and relational databases.
 
@@ -111,7 +111,7 @@ Current focus:
 
 # `$ contact --list`
 
-**LinkedIn:** [João Nemezio](https://www.linkedin.com/in/jo%C3%A3o-nemezio-038255348/)
+**LinkedIn:** [João Nemezio](https://www.linkedin.com/in/joão-nemezio-038255348/)
 
 **GitHub:** [@DeltaPenas](https://github.com/DeltaPenas)
 
